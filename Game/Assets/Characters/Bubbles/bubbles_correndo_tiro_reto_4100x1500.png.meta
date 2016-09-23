@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 1cbc120f2d76c4b448444e3c21335cb7
+timeCreated: 1448915914
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubbles_correndo_tiro_reto_4100x1500_0
+    21300002: bubbles_correndo_tiro_reto_4100x1500_1
+    21300004: bubbles_correndo_tiro_reto_4100x1500_2
+    21300006: bubbles_correndo_tiro_reto_4100x1500_3
+    21300008: bubbles_correndo_tiro_reto_4100x1500_4
+    21300010: bubbles_correndo_tiro_reto_4100x1500_5
+    21300012: bubbles_correndo_tiro_reto_4100x1500_6
+    21300014: bubbles_correndo_tiro_reto_4100x1500_7
+    21300016: bubbles_correndo_tiro_reto_4100x1500_8
+    21300018: bubbles_correndo_tiro_reto_4100x1500_9
+    21300020: bubbles_correndo_tiro_reto_4100x1500_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: bubbles_correndo_tiro_reto_4100x1500_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1020
+        width: 737
+        height: 421
+      alignment: 9
+      pivot: {x: .497017443, y: .400797129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_reto_4100x1500_1
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1012
+        width: 743
+        height: 315
+      alignment: 9
+      pivot: {x: .494540513, y: .576273382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_reto_4100x1500_2
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1008
+        width: 740
+        height: 279
+      alignment: 9
+      pivot: {x: .489543676, y: .713996708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_reto_4100x1500_3
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1016
+        width: 745
+        height: 309
+      alignment: 9
+      pivot: {x: .490290403, y: .610751748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_reto_4100x1500_4
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1024
+        width: 751
+        height: 421
+      alignment: 9
+      pivot: {x: .494650692, y: .412379324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_reto_4100x1500_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 566
+        width: 750
+        height: 406
+      alignment: 9
+      pivot: {x: .497065783, y: .432630122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_reto_4100x1500_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 558
+        width: 749
+        height: 320
+      alignment: 9
+      pivot: {x: .496912062, y: .582838237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_reto_4100x1500_7
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 564
+        width: 749
+        height: 272
+      alignment: 9
+      pivot: {x: .493958265, y: .688664377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_reto_4100x1500_8
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 572
+        width: 747
+        height: 264
+      alignment: 9
+      pivot: {x: .49151063, y: .689849377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_reto_4100x1500_9
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 572
+        width: 749
+        height: 372
+      alignment: 9
+      pivot: {x: .490687132, y: .478047192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_reto_4100x1500_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 61
+        width: 743
+        height: 457
+      alignment: 9
+      pivot: {x: .492895484, y: .388116121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Bubbles
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

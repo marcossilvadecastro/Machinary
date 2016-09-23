@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: be153f29b96c34d3b97947c241910db8
+timeCreated: 1449349562
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: botoes-02_0
+    21300002: botoes-02_1
+    21300004: botoes-02_2
+    21300006: botoes-02_3
+    21300008: botoes-02_4
+    21300010: botoes-02_5
+    21300012: botoes-02_6
+    21300014: botoes-02_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: botoes-02_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 259
+        width: 174
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes-02_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 203
+        width: 140
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes-02_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 146
+        width: 255
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes-02_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 133
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes-02_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 259
+        width: 173
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes-02_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 203
+        width: 133
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes-02_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 147
+        width: 245
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes-02_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 93
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

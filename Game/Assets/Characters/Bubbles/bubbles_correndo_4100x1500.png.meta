@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 63180ce25dd46b14fb8141d1c40a77f0
+timeCreated: 1448914324
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubbles_correndo_4100x1500_0
+    21300002: bubbles_correndo_4100x1500_1
+    21300004: bubbles_correndo_4100x1500_2
+    21300006: bubbles_correndo_4100x1500_3
+    21300008: bubbles_correndo_4100x1500_4
+    21300010: bubbles_correndo_4100x1500_5
+    21300012: bubbles_correndo_4100x1500_6
+    21300014: bubbles_correndo_4100x1500_7
+    21300016: bubbles_correndo_4100x1500_8
+    21300018: bubbles_correndo_4100x1500_9
+    21300020: bubbles_correndo_4100x1500_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: bubbles_correndo_4100x1500_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 918
+        width: 686
+        height: 261
+      alignment: 9
+      pivot: {x: .859128118, y: .650567889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_4100x1500_1
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 908
+        width: 650
+        height: 309
+      alignment: 9
+      pivot: {x: .879530489, y: .616430163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_4100x1500_2
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 904
+        width: 636
+        height: 329
+      alignment: 9
+      pivot: {x: .88578403, y: .606768131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_4100x1500_3
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 912
+        width: 645
+        height: 371
+      alignment: 9
+      pivot: {x: .882162213, y: .508681476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_4100x1500_4
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 920
+        width: 666
+        height: 359
+      alignment: 9
+      pivot: {x: .872567415, y: .484837085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_4100x1500_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 494
+        width: 677
+        height: 284
+      alignment: 9
+      pivot: {x: .866405249, y: .620434403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_4100x1500_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 486
+        width: 668
+        height: 296
+      alignment: 9
+      pivot: {x: .871514022, y: .632960737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_4100x1500_7
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 492
+        width: 646
+        height: 362
+      alignment: 9
+      pivot: {x: .881040394, y: .518332958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_4100x1500_8
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 500
+        width: 635
+        height: 358
+      alignment: 9
+      pivot: {x: .887043655, y: .509964943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_4100x1500_9
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 500
+        width: 651
+        height: 298
+      alignment: 9
+      pivot: {x: .877834082, y: .596724331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_4100x1500_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 153
+        width: 682
+        height: 277
+      alignment: 9
+      pivot: {x: .861320138, y: .642933965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Bubbles
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

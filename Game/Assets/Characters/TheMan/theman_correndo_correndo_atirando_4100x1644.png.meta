@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 6afc3074648b54d82af024539f156f9d
+timeCreated: 1448940554
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theman_correndo_correndo_atirando_4100x1644_0
+    21300002: theman_correndo_correndo_atirando_4100x1644_1
+    21300004: theman_correndo_correndo_atirando_4100x1644_2
+    21300006: theman_correndo_correndo_atirando_4100x1644_3
+    21300008: theman_correndo_correndo_atirando_4100x1644_4
+    21300010: theman_correndo_correndo_atirando_4100x1644_5
+    21300012: theman_correndo_correndo_atirando_4100x1644_6
+    21300014: theman_correndo_correndo_atirando_4100x1644_7
+    21300016: theman_correndo_correndo_atirando_4100x1644_8
+    21300018: theman_correndo_correndo_atirando_4100x1644_9
+    21300020: theman_correndo_correndo_atirando_4100x1644_10
+    21300022: theman_correndo_correndo_atirando_4100x1644_11
+    21300024: theman_correndo_correndo_atirando_4100x1644_12
+    21300026: theman_correndo_correndo_atirando_4100x1644_13
+    21300028: theman_correndo_correndo_atirando_4100x1644_14
+    21300030: theman_correndo_correndo_atirando_4100x1644_15
+    21300032: theman_correndo_correndo_atirando_4100x1644_16
+    21300034: theman_correndo_correndo_atirando_4100x1644_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: theman_correndo_correndo_atirando_4100x1644_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1279
+        width: 597
+        height: 338
+      alignment: 9
+      pivot: {x: .503989458, y: .690255225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1285
+        width: 596
+        height: 340
+      alignment: 9
+      pivot: {x: .503996193, y: .691470861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_2
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1267
+        width: 606
+        height: 350
+      alignment: 9
+      pivot: {x: .497379929, y: .701878488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_3
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1281
+        width: 657
+        height: 326
+      alignment: 9
+      pivot: {x: .457706809, y: .682646751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_4
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 1279
+        width: 610
+        height: 328
+      alignment: 9
+      pivot: {x: .492191106, y: .683953643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_5
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1273
+        width: 597
+        height: 344
+      alignment: 9
+      pivot: {x: .501329064, y: .693860412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 878
+        width: 597
+        height: 354
+      alignment: 9
+      pivot: {x: .502171576, y: .695927322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_7
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 876
+        width: 596
+        height: 344
+      alignment: 9
+      pivot: {x: .502175033, y: .699738622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_8
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 890
+        width: 619
+        height: 322
+      alignment: 9
+      pivot: {x: .484292179, y: .673124135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 494
+        width: 569
+        height: 340
+      alignment: 9
+      pivot: {x: .480408788, y: .687075615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 500
+        width: 598
+        height: 342
+      alignment: 9
+      pivot: {x: .504386187, y: .689816117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_11
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 482
+        width: 577
+        height: 350
+      alignment: 9
+      pivot: {x: .472725421, y: .702339411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_12
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 498
+        width: 601
+        height: 326
+      alignment: 9
+      pivot: {x: .403986514, y: .677006662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_13
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 494
+        width: 610
+        height: 330
+      alignment: 9
+      pivot: {x: .491400242, y: .682809353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_14
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 490
+        width: 569
+        height: 342
+      alignment: 9
+      pivot: {x: .47533536, y: .693983674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 541
+        height: 350
+      alignment: 9
+      pivot: {x: .449503273, y: .701862454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_16
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 33
+        width: 568
+        height: 346
+      alignment: 9
+      pivot: {x: .477610081, y: .697389662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_correndo_correndo_atirando_4100x1644_17
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 47
+        width: 619
+        height: 322
+      alignment: 9
+      pivot: {x: .484020621, y: .678458154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: TheMan
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

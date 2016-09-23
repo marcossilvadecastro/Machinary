@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 0bc207e0c91af47e79576f529212c081
+timeCreated: 1448972220
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubbles_tiros_parados_5000x2129_0
+    21300002: bubbles_tiros_parados_5000x2129_1
+    21300004: bubbles_tiros_parados_5000x2129_2
+    21300006: bubbles_tiros_parados_5000x2129_3
+    21300008: bubbles_tiros_parados_5000x2129_4
+    21300010: bubbles_tiros_parados_5000x2129_5
+    21300012: bubbles_tiros_parados_5000x2129_6
+    21300014: bubbles_tiros_parados_5000x2129_7
+    21300016: bubbles_tiros_parados_5000x2129_8
+    21300018: bubbles_tiros_parados_5000x2129_9
+    21300020: bubbles_tiros_parados_5000x2129_10
+    21300022: bubbles_tiros_parados_5000x2129_11
+    21300024: bubbles_tiros_parados_5000x2129_12
+    21300026: bubbles_tiros_parados_5000x2129_13
+    21300028: bubbles_tiros_parados_5000x2129_14
+    21300030: bubbles_tiros_parados_5000x2129_15
+    21300032: bubbles_tiros_parados_5000x2129_16
+    21300034: bubbles_tiros_parados_5000x2129_17
+    21300036: bubbles_tiros_parados_5000x2129_18
+    21300038: bubbles_tiros_parados_5000x2129_19
+    21300040: bubbles_tiros_parados_5000x2129_20
+    21300042: bubbles_tiros_parados_5000x2129_21
+    21300044: bubbles_tiros_parados_5000x2129_22
+    21300046: bubbles_tiros_parados_5000x2129_23
+    21300048: bubbles_tiros_parados_5000x2129_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: bubbles_tiros_parados_5000x2129_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1810
+        width: 767
+        height: 306
+      alignment: 9
+      pivot: {x: .453485131, y: .0245261602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_1
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1810
+        width: 749
+        height: 281
+      alignment: 9
+      pivot: {x: .376452625, y: .0278520137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_2
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1810
+        width: 745
+        height: 264
+      alignment: 9
+      pivot: {x: .334635049, y: .0291220918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_3
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1810
+        width: 742
+        height: 276
+      alignment: 9
+      pivot: {x: .339976668, y: .0273773633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_4
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 1803
+        width: 711
+        height: 308
+      alignment: 9
+      pivot: {x: .351032317, y: .0475226082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1434
+        width: 774
+        height: 293
+      alignment: 9
+      pivot: {x: .442867577, y: .019956205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_6
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1381
+        width: 677
+        height: 368
+      alignment: 9
+      pivot: {x: .348115504, y: .161224037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_7
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1334
+        width: 612
+        height: 423
+      alignment: 9
+      pivot: {x: .297162026, y: .249355882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_8
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 1329
+        width: 613
+        height: 425
+      alignment: 9
+      pivot: {x: .319221228, y: .260564119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_9
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1329
+        width: 610
+        height: 425
+      alignment: 9
+      pivot: {x: .328812987, y: .261817843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 983
+        width: 769
+        height: 271
+      alignment: 9
+      pivot: {x: .47586453, y: .0205850638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_11
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 983
+        width: 752
+        height: 307
+      alignment: 9
+      pivot: {x: .492872357, y: .0173813011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_12
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 963
+        width: 698
+        height: 344
+      alignment: 9
+      pivot: {x: .51240921, y: .0712736249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_13
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 978
+        width: 696
+        height: 293
+      alignment: 9
+      pivot: {x: .529480338, y: .0339117981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_14
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 983
+        width: 725
+        height: 268
+      alignment: 9
+      pivot: {x: .541566193, y: .0177006517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 179
+        width: 725
+        height: 291
+      alignment: 9
+      pivot: {x: .441578776, y: .0202973355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_16
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 179
+        width: 450
+        height: 690
+      alignment: 9
+      pivot: {x: .467790663, y: .00861820858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_17
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 87
+        width: 415
+        height: 766
+      alignment: 9
+      pivot: {x: .559674144, y: .127739131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_18
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 165
+        width: 413
+        height: 752
+      alignment: 9
+      pivot: {x: .560211718, y: .0258596707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_19
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 179
+        width: 415
+        height: 737
+      alignment: 9
+      pivot: {x: .561920524, y: .00784935337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_20
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 184
+        width: 483
+        height: 513
+      alignment: 9
+      pivot: {x: .27196154, y: .0139204478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_21
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 158
+        width: 357
+        height: 671
+      alignment: 9
+      pivot: {x: .0124115078, y: .0494052283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_22
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 111
+        width: 357
+        height: 752
+      alignment: 9
+      pivot: {x: .0149048874, y: .106386974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_23
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 101
+        width: 359
+        height: 764
+      alignment: 9
+      pivot: {x: .0170381591, y: .118434228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_tiros_parados_5000x2129_24
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 111
+        width: 357
+        height: 752
+      alignment: 9
+      pivot: {x: .0147660626, y: .106241733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Bubbles
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

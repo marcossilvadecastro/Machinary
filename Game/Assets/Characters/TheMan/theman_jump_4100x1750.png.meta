@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 573c2644184ab49f7ad08428955ecd26
+timeCreated: 1448977252
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theman_jump_4100x1750_0
+    21300002: theman_jump_4100x1750_1
+    21300004: theman_jump_4100x1750_2
+    21300006: theman_jump_4100x1750_3
+    21300008: theman_jump_4100x1750_4
+    21300010: theman_jump_4100x1750_5
+    21300012: theman_jump_4100x1750_6
+    21300014: theman_jump_4100x1750_7
+    21300016: theman_jump_4100x1750_8
+    21300018: theman_jump_4100x1750_9
+    21300020: theman_jump_4100x1750_10
+    21300022: theman_jump_4100x1750_11
+    21300024: theman_jump_4100x1750_12
+    21300026: theman_jump_4100x1750_13
+    21300028: theman_jump_4100x1750_14
+    21300030: theman_jump_4100x1750_15
+    21300032: theman_jump_4100x1750_16
+    21300034: theman_jump_4100x1750_17
+    21300036: theman_jump_4100x1750_18
+    21300038: theman_jump_4100x1750_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: theman_jump_4100x1750_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1241
+        width: 489
+        height: 498
+      alignment: 9
+      pivot: {x: .846761405, y: .00405896036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1241
+        width: 522
+        height: 446
+      alignment: 9
+      pivot: {x: .855182886, y: .00490416121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_2
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1241
+        width: 560
+        height: 319
+      alignment: 9
+      pivot: {x: .890407264, y: .00703530619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_3
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1241
+        width: 559
+        height: 357
+      alignment: 9
+      pivot: {x: .579592466, y: .974645972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_4
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1241
+        width: 496
+        height: 468
+      alignment: 9
+      pivot: {x: .579659224, y: .989664972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_5
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 1241
+        width: 553
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_6
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 1241
+        width: 574
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 788
+        width: 586
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 788
+        width: 636
+        height: 360
+      alignment: 9
+      pivot: {x: .845157862, y: .0634721518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_9
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 788
+        width: 686
+        height: 410
+      alignment: 9
+      pivot: {x: .796963096, y: .114362463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_10
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 788
+        width: 694
+        height: 416
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_11
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 788
+        width: 682
+        height: 362
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_12
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 788
+        width: 653
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 621
+        height: 319
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_14
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 27
+        width: 508
+        height: 462
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_15
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 27
+        width: 622
+        height: 417
+      alignment: 9
+      pivot: {x: .765545309, y: .120683685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_16
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 27
+        width: 682
+        height: 598
+      alignment: 9
+      pivot: {x: .786183298, y: .0850844085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_17
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 27
+        width: 468
+        height: 731
+      alignment: 9
+      pivot: {x: .690793812, y: .0643688962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_18
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 27
+        width: 633
+        height: 419
+      alignment: 9
+      pivot: {x: .77088654, y: .120935388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_jump_4100x1750_19
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 27
+        width: 316
+        height: 466
+      alignment: 9
+      pivot: {x: .967612743, y: .0981226265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: TheMan
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

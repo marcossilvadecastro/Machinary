@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 625cf45c201b04c1b8641eab1832cb14
+timeCreated: 1448984414
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_0
+    21300002: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_1
+    21300004: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_2
+    21300006: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_3
+    21300008: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_4
+    21300010: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_5
+    21300012: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_6
+    21300014: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_7
+    21300016: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_8
+    21300018: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_9
+    21300020: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_10
+    21300022: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_11
+    21300024: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_12
+    21300026: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_13
+    21300028: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_14
+    21300030: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_15
+    21300032: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_16
+    21300034: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_17
+    21300036: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_18
+    21300038: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_19
+    21300040: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_20
+    21300042: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_21
+    21300044: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_22
+    21300046: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_23
+    21300048: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_24
+    21300050: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_25
+    21300052: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_26
+    21300054: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_27
+    21300056: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_28
+    21300058: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_29
+    21300060: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_30
+    21300062: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_31
+    21300064: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_32
+    21300066: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_33
+    21300068: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_34
+    21300070: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1783
+        width: 563
+        height: 384
+      alignment: 9
+      pivot: {x: .474682003, y: .607985198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1789
+        width: 542
+        height: 380
+      alignment: 9
+      pivot: {x: .452980638, y: .619351685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_2
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1771
+        width: 573
+        height: 402
+      alignment: 9
+      pivot: {x: .467585534, y: .608521998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_3
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1785
+        width: 645
+        height: 392
+      alignment: 9
+      pivot: {x: .445086539, y: .567215264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_4
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1781
+        width: 557
+        height: 372
+      alignment: 9
+      pivot: {x: .442614675, y: .609145939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_5
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 1777
+        width: 564
+        height: 396
+      alignment: 9
+      pivot: {x: .4726623, y: .602105021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1318
+        width: 585
+        height: 416
+      alignment: 9
+      pivot: {x: .491336495, y: .589248061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_7
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1314
+        width: 570
+        height: 399
+      alignment: 9
+      pivot: {x: .476964802, y: .604628325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_8
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1328
+        width: 565
+        height: 363
+      alignment: 9
+      pivot: {x: .436922044, y: .600313544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_9
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1324
+        width: 478
+        height: 361
+      alignment: 9
+      pivot: {x: .754095733, y: .568981886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_10
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 1330
+        width: 465
+        height: 360
+      alignment: 9
+      pivot: {x: .748126686, y: .576448917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_11
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1312
+        width: 490
+        height: 363
+      alignment: 9
+      pivot: {x: .739787459, y: .597687185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_12
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 1328
+        width: 554
+        height: 330
+      alignment: 9
+      pivot: {x: .67601043, y: .580913723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 916
+        width: 478
+        height: 340
+      alignment: 9
+      pivot: {x: .724959612, y: .579590201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 912
+        width: 478
+        height: 358
+      alignment: 9
+      pivot: {x: .752372563, y: .585818827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_15
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 914
+        width: 493
+        height: 370
+      alignment: 9
+      pivot: {x: .758440673, y: .585477948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_16
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 910
+        width: 472
+        height: 362
+      alignment: 9
+      pivot: {x: .75079447, y: .587366939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_17
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 924
+        width: 475
+        height: 330
+      alignment: 9
+      pivot: {x: .705455899, y: .572563767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_18
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 918
+        width: 431
+        height: 350
+      alignment: 9
+      pivot: {x: .74828136, y: .576187909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_19
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 914
+        width: 431
+        height: 356
+      alignment: 9
+      pivot: {x: .74988842, y: .584631443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_20
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 896
+        width: 448
+        height: 354
+      alignment: 9
+      pivot: {x: .718761444, y: .613479555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 501
+        width: 502
+        height: 325
+      alignment: 9
+      pivot: {x: .644659221, y: .591032326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_22
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 497
+        width: 454
+        height: 343
+      alignment: 9
+      pivot: {x: .710732639, y: .571692646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_23
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 492
+        width: 430
+        height: 352
+      alignment: 9
+      pivot: {x: .751087844, y: .594965339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_24
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 493
+        width: 432
+        height: 359
+      alignment: 9
+      pivot: {x: .748411655, y: .606013834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_25
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 491
+        width: 436
+        height: 355
+      alignment: 9
+      pivot: {x: .740948319, y: .597100556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_26
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 505
+        width: 462
+        height: 335
+      alignment: 9
+      pivot: {x: .698965073, y: .562473416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_27
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 465
+        width: 350
+        height: 387
+      alignment: 9
+      pivot: {x: .695758224, y: .523605645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_28
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 471
+        width: 350
+        height: 403
+      alignment: 9
+      pivot: {x: .699020624, y: .508500695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 380
+        height: 398
+      alignment: 9
+      pivot: {x: .644515872, y: .536794662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 16
+        width: 431
+        height: 361
+      alignment: 9
+      pivot: {x: .563235819, y: .533805072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_31
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 15
+        width: 385
+        height: 390
+      alignment: 9
+      pivot: {x: .63629961, y: .494784951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_32
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 9
+        width: 351
+        height: 406
+      alignment: 9
+      pivot: {x: .698177516, y: .511021316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_33
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 11
+        width: 356
+        height: 412
+      alignment: 9
+      pivot: {x: .688538313, y: .520734489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_34
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 7
+        width: 366
+        height: 394
+      alignment: 9
+      pivot: {x: .667827308, y: .5351035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_correndo_diagonal_altoebaixo_tiro_baixoealto_4100x2200_35
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 21
+        width: 392
+        height: 356
+      alignment: 9
+      pivot: {x: .622891784, y: .525912225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: TheMan
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

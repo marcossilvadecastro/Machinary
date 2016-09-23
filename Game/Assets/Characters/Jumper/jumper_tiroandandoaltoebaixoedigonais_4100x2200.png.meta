@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: a0c8d8679ac4ba849b1ef0a441968a11
+timeCreated: 1448911223
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jumper_tiroandandoaltoebaixoedigonais_4100x2200_0
+    21300002: jumper_tiroandandoaltoebaixoedigonais_4100x2200_1
+    21300004: jumper_tiroandandoaltoebaixoedigonais_4100x2200_2
+    21300006: jumper_tiroandandoaltoebaixoedigonais_4100x2200_3
+    21300008: jumper_tiroandandoaltoebaixoedigonais_4100x2200_4
+    21300010: jumper_tiroandandoaltoebaixoedigonais_4100x2200_5
+    21300012: jumper_tiroandandoaltoebaixoedigonais_4100x2200_6
+    21300014: jumper_tiroandandoaltoebaixoedigonais_4100x2200_7
+    21300016: jumper_tiroandandoaltoebaixoedigonais_4100x2200_8
+    21300018: jumper_tiroandandoaltoebaixoedigonais_4100x2200_9
+    21300020: jumper_tiroandandoaltoebaixoedigonais_4100x2200_10
+    21300022: jumper_tiroandandoaltoebaixoedigonais_4100x2200_11
+    21300024: jumper_tiroandandoaltoebaixoedigonais_4100x2200_12
+    21300026: jumper_tiroandandoaltoebaixoedigonais_4100x2200_13
+    21300028: jumper_tiroandandoaltoebaixoedigonais_4100x2200_14
+    21300030: jumper_tiroandandoaltoebaixoedigonais_4100x2200_15
+    21300032: jumper_tiroandandoaltoebaixoedigonais_4100x2200_16
+    21300034: jumper_tiroandandoaltoebaixoedigonais_4100x2200_17
+    21300036: jumper_tiroandandoaltoebaixoedigonais_4100x2200_18
+    21300038: jumper_tiroandandoaltoebaixoedigonais_4100x2200_19
+    21300040: jumper_tiroandandoaltoebaixoedigonais_4100x2200_20
+    21300042: jumper_tiroandandoaltoebaixoedigonais_4100x2200_21
+    21300044: jumper_tiroandandoaltoebaixoedigonais_4100x2200_22
+    21300046: jumper_tiroandandoaltoebaixoedigonais_4100x2200_23
+    21300048: jumper_tiroandandoaltoebaixoedigonais_4100x2200_24
+    21300050: jumper_tiroandandoaltoebaixoedigonais_4100x2200_25
+    21300052: jumper_tiroandandoaltoebaixoedigonais_4100x2200_26
+    21300054: jumper_tiroandandoaltoebaixoedigonais_4100x2200_27
+    21300056: jumper_tiroandandoaltoebaixoedigonais_4100x2200_28
+    21300058: jumper_tiroandandoaltoebaixoedigonais_4100x2200_29
+    21300060: jumper_tiroandandoaltoebaixoedigonais_4100x2200_30
+    21300062: jumper_tiroandandoaltoebaixoedigonais_4100x2200_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1592
+        width: 406
+        height: 535
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1592
+        width: 405
+        height: 563
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_2
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1592
+        width: 404
+        height: 591
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_3
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1592
+        width: 405
+        height: 563
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_4
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1592
+        width: 406
+        height: 535
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_5
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1592
+        width: 405
+        height: 563
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_6
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1592
+        width: 404
+        height: 591
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_7
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 1592
+        width: 404
+        height: 563
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1088
+        width: 423
+        height: 482
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1088
+        width: 422
+        height: 482
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_10
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1088
+        width: 424
+        height: 482
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_11
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1088
+        width: 423
+        height: 482
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_12
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1088
+        width: 422
+        height: 482
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_13
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1088
+        width: 421
+        height: 482
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_14
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1088
+        width: 422
+        height: 482
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_15
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1088
+        width: 421
+        height: 482
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 598
+        width: 471
+        height: 440
+      alignment: 9
+      pivot: {x: .326066911, y: .12025743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 600
+        width: 448
+        height: 444
+      alignment: 9
+      pivot: {x: .350008547, y: .11675173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_18
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 600
+        width: 438
+        height: 446
+      alignment: 9
+      pivot: {x: .353088945, y: .118639477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_19
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 598
+        width: 446
+        height: 446
+      alignment: 9
+      pivot: {x: .346755505, y: .121533312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 600
+        width: 471
+        height: 438
+      alignment: 9
+      pivot: {x: .326066643, y: .119333208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_21
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 598
+        width: 446
+        height: 446
+      alignment: 9
+      pivot: {x: .347237498, y: .121050917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_22
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 598
+        width: 438
+        height: 448
+      alignment: 9
+      pivot: {x: .355544567, y: .120510511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_23
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 598
+        width: 447
+        height: 444
+      alignment: 9
+      pivot: {x: .345979482, y: .120142892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 131
+        width: 418
+        height: 445
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 131
+        width: 417
+        height: 445
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_26
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 131
+        width: 414
+        height: 445
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_27
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 131
+        width: 417
+        height: 445
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_28
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 131
+        width: 418
+        height: 446
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_29
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 131
+        width: 415
+        height: 445
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_30
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 131
+        width: 414
+        height: 445
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_tiroandandoaltoebaixoedigonais_4100x2200_31
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 131
+        width: 417
+        height: 445
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Jumper
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

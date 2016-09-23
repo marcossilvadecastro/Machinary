@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 662e0c76781c68a489d0cbc30f7c8b66
+timeCreated: 1448971704
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_0
+    21300002: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_1
+    21300004: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_2
+    21300006: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_3
+    21300008: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_4
+    21300010: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_5
+    21300012: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_6
+    21300014: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_7
+    21300016: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_8
+    21300018: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_9
+    21300020: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_10
+    21300022: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_11
+    21300024: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_12
+    21300026: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_13
+    21300028: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_14
+    21300030: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_15
+    21300032: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_16
+    21300034: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_17
+    21300036: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_18
+    21300038: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_19
+    21300040: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_20
+    21300042: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_21
+    21300044: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_22
+    21300046: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2365
+        width: 771
+        height: 244
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_1
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2365
+        width: 771
+        height: 260
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_2
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2365
+        width: 772
+        height: 292
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_3
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 2365
+        width: 772
+        height: 308
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2055
+        width: 697
+        height: 218
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_5
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2055
+        width: 698
+        height: 232
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_6
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 2055
+        width: 696
+        height: 262
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_7
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 2055
+        width: 697
+        height: 276
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1554
+        width: 537
+        height: 460
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_9
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1554
+        width: 570
+        height: 442
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_10
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1554
+        width: 593
+        height: 424
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_11
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1554
+        width: 602
+        height: 410
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1008
+        width: 661
+        height: 468
+      alignment: 9
+      pivot: {x: .349742442, y: .0125822406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_13
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1008
+        width: 640
+        height: 486
+      alignment: 9
+      pivot: {x: .364715278, y: .0112444088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_14
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 983
+        width: 602
+        height: 533
+      alignment: 9
+      pivot: {x: .410086095, y: .0564049594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_15
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 970
+        width: 577
+        height: 558
+      alignment: 9
+      pivot: {x: .433237493, y: .0775751397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 292
+        height: 779
+      alignment: 9
+      pivot: {x: .855082035, y: .228698343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 111
+        width: 298
+        height: 775
+      alignment: 9
+      pivot: {x: .858070552, y: .235684544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 105
+        width: 316
+        height: 775
+      alignment: 9
+      pivot: {x: .85779351, y: .241928518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_19
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 101
+        width: 329
+        height: 777
+      alignment: 9
+      pivot: {x: .844480574, y: .247423679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_20
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 69
+        width: 290
+        height: 745
+      alignment: 9
+      pivot: {x: .133237645, y: .320148528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_21
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 75
+        width: 288
+        height: 745
+      alignment: 9
+      pivot: {x: .233357742, y: .311331242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_22
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 89
+        width: 286
+        height: 745
+      alignment: 9
+      pivot: {x: .459199488, y: .292656869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_andandoetiro_alto_baixo_diagonais_4100x2756_23
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 97
+        width: 304
+        height: 743
+      alignment: 9
+      pivot: {x: .525651634, y: .283099532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Bubbles
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

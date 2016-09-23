@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 2718c0ebe83950742a105cf487ab6dc9
+timeCreated: 1448913390
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubbles_parado_4100x693_0
+    21300002: bubbles_parado_4100x693_1
+    21300004: bubbles_parado_4100x693_2
+    21300006: bubbles_parado_4100x693_3
+    21300008: bubbles_parado_4100x693_4
+    21300010: bubbles_parado_4100x693_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: bubbles_parado_4100x693_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 333
+        width: 764
+        height: 309
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_parado_4100x693_1
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 333
+        width: 764
+        height: 301
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_parado_4100x693_2
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 333
+        width: 771
+        height: 279
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_parado_4100x693_3
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 333
+        width: 775
+        height: 251
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_parado_4100x693_4
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 333
+        width: 779
+        height: 245
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_parado_4100x693_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 51
+        width: 779
+        height: 242
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Bubbles
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

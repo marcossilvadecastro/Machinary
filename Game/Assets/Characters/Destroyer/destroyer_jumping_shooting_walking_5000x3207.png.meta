@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: d95bd4964cfe847989095a9fac915fae
+timeCreated: 1449187113
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: destroyer_jumping_shooting_walking_5000x3207_0
+    21300002: destroyer_jumping_shooting_walking_5000x3207_1
+    21300004: destroyer_jumping_shooting_walking_5000x3207_2
+    21300006: destroyer_jumping_shooting_walking_5000x3207_3
+    21300008: destroyer_jumping_shooting_walking_5000x3207_4
+    21300010: destroyer_jumping_shooting_walking_5000x3207_5
+    21300012: destroyer_jumping_shooting_walking_5000x3207_6
+    21300014: destroyer_jumping_shooting_walking_5000x3207_7
+    21300016: destroyer_jumping_shooting_walking_5000x3207_8
+    21300018: destroyer_jumping_shooting_walking_5000x3207_9
+    21300020: destroyer_jumping_shooting_walking_5000x3207_10
+    21300022: destroyer_jumping_shooting_walking_5000x3207_11
+    21300024: destroyer_jumping_shooting_walking_5000x3207_12
+    21300026: destroyer_jumping_shooting_walking_5000x3207_13
+    21300028: destroyer_jumping_shooting_walking_5000x3207_14
+    21300030: destroyer_jumping_shooting_walking_5000x3207_15
+    21300032: destroyer_jumping_shooting_walking_5000x3207_16
+    21300034: destroyer_jumping_shooting_walking_5000x3207_17
+    21300036: destroyer_jumping_shooting_walking_5000x3207_18
+    21300038: destroyer_jumping_shooting_walking_5000x3207_19
+    21300040: destroyer_jumping_shooting_walking_5000x3207_20
+    21300042: destroyer_jumping_shooting_walking_5000x3207_21
+    21300044: destroyer_jumping_shooting_walking_5000x3207_22
+    21300046: destroyer_jumping_shooting_walking_5000x3207_23
+    21300048: destroyer_jumping_shooting_walking_5000x3207_24
+    21300050: destroyer_jumping_shooting_walking_5000x3207_25
+    21300052: destroyer_jumping_shooting_walking_5000x3207_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: destroyer_jumping_shooting_walking_5000x3207_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2676
+        width: 603
+        height: 463
+      alignment: 9
+      pivot: {x: .279370576, y: .0161338467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_1
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2671
+        width: 605
+        height: 447
+      alignment: 9
+      pivot: {x: .282792032, y: .0291313846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_2
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2662
+        width: 603
+        height: 449
+      alignment: 9
+      pivot: {x: .283581495, y: .0504386909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_3
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2659
+        width: 606
+        height: 469
+      alignment: 9
+      pivot: {x: .272258699, y: .0115568573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_4
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 2623
+        width: 604
+        height: 541
+      alignment: 9
+      pivot: {x: .251297504, y: .0210294891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_5
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 2613
+        width: 603
+        height: 568
+      alignment: 9
+      pivot: {x: .244657248, y: .0256154239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_6
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 2620
+        width: 732
+        height: 508
+      alignment: 9
+      pivot: {x: .235787809, y: .0250301808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1895
+        width: 578
+        height: 547
+      alignment: 9
+      pivot: {x: .250012875, y: .0248541404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_8
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1895
+        width: 659
+        height: 508
+      alignment: 9
+      pivot: {x: .261433661, y: .0259433053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_9
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1866
+        width: 574
+        height: 605
+      alignment: 9
+      pivot: {x: .302099556, y: .0764135942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_10
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 1888
+        width: 517
+        height: 698
+      alignment: 9
+      pivot: {x: .26295644, y: .0206029508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1259
+        width: 558
+        height: 495
+      alignment: 9
+      pivot: {x: .486422628, y: .0116250394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1258
+        width: 564
+        height: 500
+      alignment: 9
+      pivot: {x: .560641885, y: .0143137211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_13
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1258
+        width: 571
+        height: 505
+      alignment: 9
+      pivot: {x: .654867649, y: .0103327082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_14
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 1256
+        width: 572
+        height: 507
+      alignment: 9
+      pivot: {x: .770108283, y: .0141510069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_15
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1253
+        width: 588
+        height: 505
+      alignment: 9
+      pivot: {x: .802303791, y: .0202902611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_16
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 1251
+        width: 617
+        height: 500
+      alignment: 9
+      pivot: {x: .830289841, y: .0248923339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_17
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 1249
+        width: 633
+        height: 500
+      alignment: 9
+      pivot: {x: .819848895, y: .0266328119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 653
+        width: 617
+        height: 502
+      alignment: 9
+      pivot: {x: .831112683, y: .027948508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 655
+        width: 569
+        height: 505
+      alignment: 9
+      pivot: {x: .836533487, y: .0253079552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_20
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 655
+        width: 571
+        height: 505
+      alignment: 9
+      pivot: {x: .773785353, y: .0255203098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_21
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 655
+        width: 559
+        height: 501
+      alignment: 9
+      pivot: {x: .661382616, y: .024380561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_22
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 655
+        width: 559
+        height: 498
+      alignment: 9
+      pivot: {x: .597901285, y: .0266610868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_23
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 655
+        width: 559
+        height: 498
+      alignment: 9
+      pivot: {x: .576853633, y: .024694236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_24
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 653
+        width: 559
+        height: 495
+      alignment: 9
+      pivot: {x: .550562859, y: .0244372431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 52
+        width: 559
+        height: 493
+      alignment: 9
+      pivot: {x: .52125001, y: .023597803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_jumping_shooting_walking_5000x3207_26
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 52
+        width: 559
+        height: 489
+      alignment: 9
+      pivot: {x: .490506351, y: .0191901419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Destroyer
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

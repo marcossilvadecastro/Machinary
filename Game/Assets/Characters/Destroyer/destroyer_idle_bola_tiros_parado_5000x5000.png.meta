@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: 068552577ac724e7f831c0474df5fd0f
+timeCreated: 1449192829
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: destroyer_idle_bola_tiros_parado_5000x5000_0
+    21300002: destroyer_idle_bola_tiros_parado_5000x5000_1
+    21300004: destroyer_idle_bola_tiros_parado_5000x5000_2
+    21300006: destroyer_idle_bola_tiros_parado_5000x5000_3
+    21300008: destroyer_idle_bola_tiros_parado_5000x5000_4
+    21300010: destroyer_idle_bola_tiros_parado_5000x5000_5
+    21300012: destroyer_idle_bola_tiros_parado_5000x5000_6
+    21300014: destroyer_idle_bola_tiros_parado_5000x5000_7
+    21300016: destroyer_idle_bola_tiros_parado_5000x5000_8
+    21300018: destroyer_idle_bola_tiros_parado_5000x5000_9
+    21300020: destroyer_idle_bola_tiros_parado_5000x5000_10
+    21300022: destroyer_idle_bola_tiros_parado_5000x5000_11
+    21300024: destroyer_idle_bola_tiros_parado_5000x5000_12
+    21300026: destroyer_idle_bola_tiros_parado_5000x5000_13
+    21300028: destroyer_idle_bola_tiros_parado_5000x5000_14
+    21300030: destroyer_idle_bola_tiros_parado_5000x5000_15
+    21300032: destroyer_idle_bola_tiros_parado_5000x5000_16
+    21300034: destroyer_idle_bola_tiros_parado_5000x5000_17
+    21300036: destroyer_idle_bola_tiros_parado_5000x5000_18
+    21300038: destroyer_idle_bola_tiros_parado_5000x5000_19
+    21300040: destroyer_idle_bola_tiros_parado_5000x5000_20
+    21300042: destroyer_idle_bola_tiros_parado_5000x5000_21
+    21300044: destroyer_idle_bola_tiros_parado_5000x5000_22
+    21300046: destroyer_idle_bola_tiros_parado_5000x5000_23
+    21300048: destroyer_idle_bola_tiros_parado_5000x5000_24
+    21300050: destroyer_idle_bola_tiros_parado_5000x5000_25
+    21300052: destroyer_idle_bola_tiros_parado_5000x5000_26
+    21300054: destroyer_idle_bola_tiros_parado_5000x5000_27
+    21300056: destroyer_idle_bola_tiros_parado_5000x5000_28
+    21300058: destroyer_idle_bola_tiros_parado_5000x5000_29
+    21300060: destroyer_idle_bola_tiros_parado_5000x5000_30
+    21300062: destroyer_idle_bola_tiros_parado_5000x5000_31
+    21300064: destroyer_idle_bola_tiros_parado_5000x5000_32
+    21300066: destroyer_idle_bola_tiros_parado_5000x5000_33
+    21300068: destroyer_idle_bola_tiros_parado_5000x5000_34
+    21300070: destroyer_idle_bola_tiros_parado_5000x5000_35
+    21300072: destroyer_idle_bola_tiros_parado_5000x5000_36
+    21300074: destroyer_idle_bola_tiros_parado_5000x5000_37
+    21300076: destroyer_idle_bola_tiros_parado_5000x5000_38
+    21300078: destroyer_idle_bola_tiros_parado_5000x5000_39
+    21300080: destroyer_idle_bola_tiros_parado_5000x5000_40
+    21300082: destroyer_idle_bola_tiros_parado_5000x5000_41
+    21300084: destroyer_idle_bola_tiros_parado_5000x5000_42
+    21300086: destroyer_idle_bola_tiros_parado_5000x5000_43
+    21300088: destroyer_idle_bola_tiros_parado_5000x5000_44
+    21300090: destroyer_idle_bola_tiros_parado_5000x5000_45
+    21300092: destroyer_idle_bola_tiros_parado_5000x5000_46
+    21300094: destroyer_idle_bola_tiros_parado_5000x5000_47
+    21300096: destroyer_idle_bola_tiros_parado_5000x5000_48
+    21300098: destroyer_idle_bola_tiros_parado_5000x5000_49
+    21300100: destroyer_idle_bola_tiros_parado_5000x5000_50
+    21300102: destroyer_idle_bola_tiros_parado_5000x5000_51
+    21300104: destroyer_idle_bola_tiros_parado_5000x5000_52
+    21300106: destroyer_idle_bola_tiros_parado_5000x5000_53
+    21300108: destroyer_idle_bola_tiros_parado_5000x5000_54
+    21300110: destroyer_idle_bola_tiros_parado_5000x5000_55
+    21300112: destroyer_idle_bola_tiros_parado_5000x5000_56
+    21300114: destroyer_idle_bola_tiros_parado_5000x5000_57
+    21300116: destroyer_idle_bola_tiros_parado_5000x5000_58
+    21300118: destroyer_idle_bola_tiros_parado_5000x5000_59
+    21300120: destroyer_idle_bola_tiros_parado_5000x5000_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4504
+        width: 603
+        height: 469
+      alignment: 9
+      pivot: {x: .280277908, y: .0106110079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 4504
+        width: 601
+        height: 470
+      alignment: 9
+      pivot: {x: .281616807, y: .00926487707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 4504
+        width: 602
+        height: 475
+      alignment: 9
+      pivot: {x: .284046263, y: .00916735176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_3
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 4504
+        width: 602
+        height: 481
+      alignment: 9
+      pivot: {x: .286112547, y: .0103462841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_4
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 4504
+        width: 602
+        height: 485
+      alignment: 9
+      pivot: {x: .289212972, y: .00897833426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_5
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 4504
+        width: 603
+        height: 487
+      alignment: 9
+      pivot: {x: .290593743, y: .00766411051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3977
+        width: 587
+        height: 488
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_7
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3962
+        width: 547
+        height: 493
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_8
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3921
+        width: 512
+        height: 455
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_9
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 3951
+        width: 406
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_10
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 3959
+        width: 362
+        height: 364
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_11
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 3921
+        width: 603
+        height: 469
+      alignment: 9
+      pivot: {x: .281194538, y: .0126401335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_12
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 3921
+        width: 606
+        height: 468
+      alignment: 9
+      pivot: {x: .279211074, y: .00961329788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_13
+      rect:
+        serializedVersion: 2
+        x: 4354
+        y: 3921
+        width: 617
+        height: 465
+      alignment: 9
+      pivot: {x: .274111748, y: .0124443462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3429
+        width: 624
+        height: 462
+      alignment: 9
+      pivot: {x: .269200653, y: .0112896543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 3429
+        width: 632
+        height: 462
+      alignment: 9
+      pivot: {x: .264771372, y: .0133003797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_16
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 3429
+        width: 643
+        height: 458
+      alignment: 9
+      pivot: {x: .258680284, y: .0110785468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_17
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 3429
+        width: 646
+        height: 454
+      alignment: 9
+      pivot: {x: .256924361, y: .0108642578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_18
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 3429
+        width: 647
+        height: 450
+      alignment: 9
+      pivot: {x: .275969088, y: .0127110463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_19
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 3429
+        width: 647
+        height: 447
+      alignment: 9
+      pivot: {x: .298946619, y: .00944065023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2768
+        width: 603
+        height: 469
+      alignment: 9
+      pivot: {x: .280792534, y: .0121888118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_21
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2768
+        width: 603
+        height: 467
+      alignment: 9
+      pivot: {x: .282899976, y: .0113674384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_22
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2768
+        width: 575
+        height: 464
+      alignment: 9
+      pivot: {x: .296295643, y: .00957725756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_23
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2768
+        width: 517
+        height: 508
+      alignment: 9
+      pivot: {x: .325280786, y: .0106739439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_24
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 2768
+        width: 516
+        height: 585
+      alignment: 9
+      pivot: {x: .319677085, y: .00890549924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_25
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 2768
+        width: 515
+        height: 604
+      alignment: 9
+      pivot: {x: .319327414, y: .00748670986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_26
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 2768
+        width: 478
+        height: 531
+      alignment: 9
+      pivot: {x: .265557587, y: .0101256287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_27
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 2768
+        width: 442
+        height: 512
+      alignment: 9
+      pivot: {x: .132755056, y: .00919103622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_28
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 2768
+        width: 462
+        height: 584
+      alignment: 9
+      pivot: {x: .129541442, y: .00806458388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2217
+        width: 603
+        height: 469
+      alignment: 9
+      pivot: {x: .283003807, y: .0126640787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_30
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2217
+        width: 599
+        height: 469
+      alignment: 9
+      pivot: {x: .2702066, y: .0108525455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_31
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2217
+        width: 559
+        height: 469
+      alignment: 9
+      pivot: {x: .20056437, y: .0126640787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_33
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2184
+        width: 532
+        height: 502
+      alignment: 9
+      pivot: {x: .145439431, y: .0751666203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_35
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2165
+        width: 530
+        height: 521
+      alignment: 9
+      pivot: {x: .145704508, y: .10859853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_37
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 2179
+        width: 516
+        height: 507
+      alignment: 9
+      pivot: {x: .150911555, y: .0843835697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_39
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2210
+        width: 450
+        height: 474
+      alignment: 9
+      pivot: {x: .165797532, y: .0249749683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_40
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 2152
+        width: 506
+        height: 534
+      alignment: 9
+      pivot: {x: .30185625, y: .132447198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1488
+        width: 572
+        height: 604
+      alignment: 9
+      pivot: {x: .364825666, y: .228500471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_43
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1550
+        width: 529
+        height: 473
+      alignment: 9
+      pivot: {x: .328138947, y: .0096001979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_44
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1550
+        width: 538
+        height: 478
+      alignment: 9
+      pivot: {x: .433668852, y: .00939737074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_45
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1550
+        width: 621
+        height: 480
+      alignment: 9
+      pivot: {x: .420642883, y: .0114412941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_46
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1550
+        width: 664
+        height: 481
+      alignment: 9
+      pivot: {x: .397630066, y: .0106906695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_47
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 1550
+        width: 646
+        height: 479
+      alignment: 9
+      pivot: {x: .409245819, y: .0121953087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_48
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 1550
+        width: 558
+        height: 476
+      alignment: 9
+      pivot: {x: .463454604, y: .0109058032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_49
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 1550
+        width: 579
+        height: 471
+      alignment: 9
+      pivot: {x: .4222233, y: .0111257629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 985
+        width: 629
+        height: 467
+      alignment: 9
+      pivot: {x: .366268516, y: .0105772484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_51
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 985
+        width: 631
+        height: 465
+      alignment: 9
+      pivot: {x: .354573429, y: .0102994526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_52
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 969
+        width: 530
+        height: 473
+      alignment: 9
+      pivot: {x: .325257033, y: .0113964118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_53
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 969
+        width: 538
+        height: 478
+      alignment: 9
+      pivot: {x: .436827481, y: .011174541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_54
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 969
+        width: 637
+        height: 480
+      alignment: 9
+      pivot: {x: .41063112, y: .00967114791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_55
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 969
+        width: 643
+        height: 481
+      alignment: 9
+      pivot: {x: .410143733, y: .0106904153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_56
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 969
+        width: 633
+        height: 479
+      alignment: 9
+      pivot: {x: .418120325, y: .0121951811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 402
+        width: 558
+        height: 476
+      alignment: 9
+      pivot: {x: .465000808, y: .00930003915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_58
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 402
+        width: 608
+        height: 471
+      alignment: 9
+      pivot: {x: .402352273, y: .0107252765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_59
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 402
+        width: 663
+        height: 467
+      alignment: 9
+      pivot: {x: .345648795, y: .00987991877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: destroyer_idle_bola_tiros_parado_5000x5000_60
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 402
+        width: 665
+        height: 465
+      alignment: 9
+      pivot: {x: .335540622, y: .0094519835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Destroyer
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

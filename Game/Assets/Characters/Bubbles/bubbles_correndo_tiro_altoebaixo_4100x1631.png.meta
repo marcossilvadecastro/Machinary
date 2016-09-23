@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: aabde47077fd3994fae91ada4d8aca31
+timeCreated: 1448914962
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubbles_correndo_tiro_altoebaixo_4100x1631_0
+    21300002: bubbles_correndo_tiro_altoebaixo_4100x1631_1
+    21300004: bubbles_correndo_tiro_altoebaixo_4100x1631_2
+    21300006: bubbles_correndo_tiro_altoebaixo_4100x1631_3
+    21300008: bubbles_correndo_tiro_altoebaixo_4100x1631_4
+    21300010: bubbles_correndo_tiro_altoebaixo_4100x1631_5
+    21300012: bubbles_correndo_tiro_altoebaixo_4100x1631_6
+    21300014: bubbles_correndo_tiro_altoebaixo_4100x1631_7
+    21300016: bubbles_correndo_tiro_altoebaixo_4100x1631_8
+    21300018: bubbles_correndo_tiro_altoebaixo_4100x1631_9
+    21300020: bubbles_correndo_tiro_altoebaixo_4100x1631_10
+    21300022: bubbles_correndo_tiro_altoebaixo_4100x1631_11
+    21300024: bubbles_correndo_tiro_altoebaixo_4100x1631_12
+    21300026: bubbles_correndo_tiro_altoebaixo_4100x1631_13
+    21300028: bubbles_correndo_tiro_altoebaixo_4100x1631_14
+    21300030: bubbles_correndo_tiro_altoebaixo_4100x1631_15
+    21300032: bubbles_correndo_tiro_altoebaixo_4100x1631_16
+    21300034: bubbles_correndo_tiro_altoebaixo_4100x1631_17
+    21300036: bubbles_correndo_tiro_altoebaixo_4100x1631_18
+    21300038: bubbles_correndo_tiro_altoebaixo_4100x1631_19
+    21300040: bubbles_correndo_tiro_altoebaixo_4100x1631_20
+    21300042: bubbles_correndo_tiro_altoebaixo_4100x1631_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 810
+        width: 245
+        height: 766
+      alignment: 9
+      pivot: {x: .656464398, y: .379268646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 832
+        width: 254
+        height: 770
+      alignment: 9
+      pivot: {x: .564119577, y: .361961454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 830
+        width: 270
+        height: 784
+      alignment: 9
+      pivot: {x: .511111796, y: .36387977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_3
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 834
+        width: 272
+        height: 772
+      alignment: 9
+      pivot: {x: .498424768, y: .360098422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_4
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 814
+        width: 288
+        height: 772
+      alignment: 9
+      pivot: {x: .520834625, y: .377863765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_5
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 805
+        width: 292
+        height: 772
+      alignment: 9
+      pivot: {x: .560178161, y: .385636091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_6
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 814
+        width: 260
+        height: 772
+      alignment: 9
+      pivot: {x: .648357689, y: .377863765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_7
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 834
+        width: 273
+        height: 772
+      alignment: 9
+      pivot: {x: .602044523, y: .359543234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 730
+        width: 312
+        height: 770
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_9
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 832
+        width: 288
+        height: 772
+      alignment: 9
+      pivot: {x: .549109578, y: .360653579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_10
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 810
+        width: 286
+        height: 770
+      alignment: 9
+      pivot: {x: .627378225, y: .378659725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 66
+        width: 270
+        height: 673
+      alignment: 9
+      pivot: {x: .826250672, y: .643517494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 63
+        width: 254
+        height: 684
+      alignment: 9
+      pivot: {x: .809282184, y: .644598544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 59
+        width: 272
+        height: 702
+      alignment: 9
+      pivot: {x: .756619155, y: .647495091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_14
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 59
+        width: 296
+        height: 706
+      alignment: 9
+      pivot: {x: .750604987, y: .651037395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_15
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 47
+        width: 323
+        height: 708
+      alignment: 9
+      pivot: {x: .753578961, y: .652065873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_16
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 39
+        width: 290
+        height: 714
+      alignment: 9
+      pivot: {x: .755789518, y: .653673947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_17
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 49
+        width: 246
+        height: 707
+      alignment: 9
+      pivot: {x: .80677557, y: .649366438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_18
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 69
+        width: 255
+        height: 692
+      alignment: 9
+      pivot: {x: .786857545, y: .64553231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_19
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 81
+        width: 328
+        height: 679
+      alignment: 9
+      pivot: {x: .701812029, y: .644525409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_20
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 77
+        width: 320
+        height: 678
+      alignment: 9
+      pivot: {x: .776078045, y: .643978715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_correndo_tiro_altoebaixo_4100x1631_21
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 69
+        width: 298
+        height: 676
+      alignment: 9
+      pivot: {x: .834489048, y: .643642604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Bubbles
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

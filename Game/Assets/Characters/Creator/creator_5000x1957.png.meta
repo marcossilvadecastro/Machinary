@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: c4baae67364f94459a4970f7f359142c
+timeCreated: 1448743681
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: creator_5000x1957_0
+    21300002: creator_5000x1957_1
+    21300004: creator_5000x1957_2
+    21300006: creator_5000x1957_3
+    21300008: creator_5000x1957_4
+    21300010: creator_5000x1957_5
+    21300012: creator_5000x1957_6
+    21300014: creator_5000x1957_7
+    21300016: creator_5000x1957_8
+    21300018: creator_5000x1957_9
+    21300020: creator_5000x1957_10
+    21300022: creator_5000x1957_11
+    21300024: creator_5000x1957_12
+    21300026: creator_5000x1957_13
+    21300028: creator_5000x1957_14
+    21300030: creator_5000x1957_15
+    21300032: creator_5000x1957_16
+    21300034: creator_5000x1957_17
+    21300036: creator_5000x1957_18
+    21300038: creator_5000x1957_19
+    21300040: creator_5000x1957_20
+    21300042: creator_5000x1957_21
+    21300044: creator_5000x1957_22
+    21300046: creator_5000x1957_23
+    21300048: creator_5000x1957_24
+    21300050: creator_5000x1957_25
+    21300052: creator_5000x1957_26
+    21300054: creator_5000x1957_27
+    21300056: creator_5000x1957_28
+    21300058: creator_5000x1957_29
+    21300060: creator_5000x1957_30
+    21300062: creator_5000x1957_31
+    21300064: creator_5000x1957_32
+    21300066: creator_5000x1957_33
+    21300068: creator_5000x1957_34
+    21300070: creator_5000x1957_35
+    21300072: creator_5000x1957_36
+    21300074: creator_5000x1957_37
+    21300076: creator_5000x1957_38
+    21300078: creator_5000x1957_39
+    21300080: creator_5000x1957_40
+    21300082: creator_5000x1957_41
+    21300084: creator_5000x1957_42
+    21300086: creator_5000x1957_43
+    21300088: creator_5000x1957_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: creator_5000x1957_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1512
+        width: 366
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1534
+        width: 367
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1565
+        width: 366
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_3
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1592
+        width: 366
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_4
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1609
+        width: 366
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_5
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1565
+        width: 347
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_6
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1522
+        width: 349
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_7
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1541
+        width: 386
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_8
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1543
+        width: 398
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_9
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 1617
+        width: 376
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_10
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 1541
+        width: 325
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_11
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 1529
+        width: 286
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1114
+        width: 260
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1138
+        width: 398
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1165
+        width: 415
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_15
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1153
+        width: 453
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_16
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1151
+        width: 464
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_17
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1155
+        width: 366
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_18
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1161
+        width: 366
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_19
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1172
+        width: 363
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_20
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 1170
+        width: 359
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_21
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1111
+        width: 366
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_22
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 1066
+        width: 330
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_23
+      rect:
+        serializedVersion: 2
+        x: 4681
+        y: 1011
+        width: 262
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 531
+        width: 240
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 639
+        width: 366
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_26
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 675
+        width: 357
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_27
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 697
+        width: 350
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_28
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 704
+        width: 346
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_29
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 704
+        width: 379
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_30
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 741
+        width: 376
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_31
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 760
+        width: 376
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_32
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 767
+        width: 379
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_33
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 645
+        width: 372
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_34
+      rect:
+        serializedVersion: 2
+        x: 4073
+        y: 680
+        width: 374
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_35
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 699
+        width: 376
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 221
+        width: 379
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 94
+        width: 384
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_38
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 57
+        width: 349
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_39
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 65
+        width: 313
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_40
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 70
+        width: 303
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_41
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 104
+        width: 371
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_42
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 138
+        width: 374
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_43
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 160
+        width: 376
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creator_5000x1957_44
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 167
+        width: 376
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Creator
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: b9e95afb57fb2448baebd974660bf4b7
+timeCreated: 1448997690
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jumper_idle_walk_stopshooting_4100x2200_0
+    21300002: jumper_idle_walk_stopshooting_4100x2200_1
+    21300004: jumper_idle_walk_stopshooting_4100x2200_2
+    21300006: jumper_idle_walk_stopshooting_4100x2200_3
+    21300008: jumper_idle_walk_stopshooting_4100x2200_4
+    21300010: jumper_idle_walk_stopshooting_4100x2200_5
+    21300012: jumper_idle_walk_stopshooting_4100x2200_6
+    21300014: jumper_idle_walk_stopshooting_4100x2200_7
+    21300016: jumper_idle_walk_stopshooting_4100x2200_8
+    21300018: jumper_idle_walk_stopshooting_4100x2200_9
+    21300020: jumper_idle_walk_stopshooting_4100x2200_10
+    21300022: jumper_idle_walk_stopshooting_4100x2200_11
+    21300024: jumper_idle_walk_stopshooting_4100x2200_12
+    21300026: jumper_idle_walk_stopshooting_4100x2200_13
+    21300028: jumper_idle_walk_stopshooting_4100x2200_14
+    21300030: jumper_idle_walk_stopshooting_4100x2200_15
+    21300032: jumper_idle_walk_stopshooting_4100x2200_16
+    21300034: jumper_idle_walk_stopshooting_4100x2200_17
+    21300036: jumper_idle_walk_stopshooting_4100x2200_18
+    21300038: jumper_idle_walk_stopshooting_4100x2200_19
+    21300040: jumper_idle_walk_stopshooting_4100x2200_20
+    21300042: jumper_idle_walk_stopshooting_4100x2200_21
+    21300044: jumper_idle_walk_stopshooting_4100x2200_22
+    21300046: jumper_idle_walk_stopshooting_4100x2200_23
+    21300048: jumper_idle_walk_stopshooting_4100x2200_24
+    21300050: jumper_idle_walk_stopshooting_4100x2200_25
+    21300052: jumper_idle_walk_stopshooting_4100x2200_26
+    21300054: jumper_idle_walk_stopshooting_4100x2200_27
+    21300056: jumper_idle_walk_stopshooting_4100x2200_28
+    21300058: jumper_idle_walk_stopshooting_4100x2200_29
+    21300060: jumper_idle_walk_stopshooting_4100x2200_30
+    21300062: jumper_idle_walk_stopshooting_4100x2200_31
+    21300064: jumper_idle_walk_stopshooting_4100x2200_32
+    21300066: jumper_idle_walk_stopshooting_4100x2200_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: jumper_idle_walk_stopshooting_4100x2200_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1713
+        width: 496
+        height: 428
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1713
+        width: 497
+        height: 424
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_2
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1713
+        width: 495
+        height: 419
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_3
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1713
+        width: 496
+        height: 423
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_4
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1713
+        width: 496
+        height: 430
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_5
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1713
+        width: 496
+        height: 433
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_6
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 1713
+        width: 491
+        height: 433
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1250
+        width: 491
+        height: 432
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1250
+        width: 490
+        height: 429
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1250
+        width: 490
+        height: 428
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_10
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1250
+        width: 490
+        height: 430
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_11
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1250
+        width: 491
+        height: 434
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_12
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1250
+        width: 491
+        height: 433
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_13
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 1250
+        width: 491
+        height: 428
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_14
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 1250
+        width: 414
+        height: 420
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 735
+        width: 399
+        height: 422
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_16
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 735
+        width: 394
+        height: 422
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_17
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 735
+        width: 399
+        height: 422
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_18
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 735
+        width: 387
+        height: 487
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_19
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 736
+        width: 387
+        height: 477
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_20
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 738
+        width: 387
+        height: 466
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_21
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 736
+        width: 387
+        height: 477
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_22
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 735
+        width: 377
+        height: 458
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_23
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 735
+        width: 387
+        height: 457
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_24
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 735
+        width: 397
+        height: 457
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 125
+        width: 385
+        height: 458
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 125
+        width: 420
+        height: 577
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 125
+        width: 420
+        height: 552
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_28
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 121
+        width: 420
+        height: 526
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_29
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 121
+        width: 420
+        height: 552
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_30
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 49
+        width: 425
+        height: 491
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_31
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 70
+        width: 424
+        height: 480
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_32
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 83
+        width: 424
+        height: 467
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_idle_walk_stopshooting_4100x2200_33
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 69
+        width: 424
+        height: 481
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Jumper
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

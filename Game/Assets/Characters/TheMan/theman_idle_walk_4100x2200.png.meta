@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: c5266fa2fd7514289bcb54a92245cc83
+timeCreated: 1448937543
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theman_idle_walk_4100x2200_0
+    21300002: theman_idle_walk_4100x2200_1
+    21300004: theman_idle_walk_4100x2200_2
+    21300006: theman_idle_walk_4100x2200_3
+    21300008: theman_idle_walk_4100x2200_4
+    21300010: theman_idle_walk_4100x2200_5
+    21300012: theman_idle_walk_4100x2200_6
+    21300014: theman_idle_walk_4100x2200_7
+    21300016: theman_idle_walk_4100x2200_8
+    21300018: theman_idle_walk_4100x2200_9
+    21300020: theman_idle_walk_4100x2200_10
+    21300022: theman_idle_walk_4100x2200_11
+    21300024: theman_idle_walk_4100x2200_12
+    21300026: theman_idle_walk_4100x2200_13
+    21300028: theman_idle_walk_4100x2200_14
+    21300030: theman_idle_walk_4100x2200_15
+    21300032: theman_idle_walk_4100x2200_16
+    21300034: theman_idle_walk_4100x2200_17
+    21300036: theman_idle_walk_4100x2200_18
+    21300038: theman_idle_walk_4100x2200_19
+    21300040: theman_idle_walk_4100x2200_20
+    21300042: theman_idle_walk_4100x2200_21
+    21300044: theman_idle_walk_4100x2200_22
+    21300046: theman_idle_walk_4100x2200_23
+    21300048: theman_idle_walk_4100x2200_24
+    21300050: theman_idle_walk_4100x2200_25
+    21300052: theman_idle_walk_4100x2200_26
+    21300054: theman_idle_walk_4100x2200_27
+    21300056: theman_idle_walk_4100x2200_28
+    21300058: theman_idle_walk_4100x2200_29
+    21300060: theman_idle_walk_4100x2200_30
+    21300062: theman_idle_walk_4100x2200_31
+    21300064: theman_idle_walk_4100x2200_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: theman_idle_walk_4100x2200_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1649
+        width: 424
+        height: 529
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_1
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1649
+        width: 424
+        height: 527
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_2
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1649
+        width: 424
+        height: 524
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_3
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1649
+        width: 423
+        height: 519
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_4
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1649
+        width: 422
+        height: 516
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_5
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1649
+        width: 422
+        height: 515
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_6
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 1649
+        width: 422
+        height: 516
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_7
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 1649
+        width: 423
+        height: 519
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_8
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 1649
+        width: 424
+        height: 524
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1068
+        width: 424
+        height: 527
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1068
+        width: 397
+        height: 516
+      alignment: 9
+      pivot: {x: .508086026, y: .692861378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_11
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1068
+        width: 391
+        height: 516
+      alignment: 9
+      pivot: {x: .496435612, y: .697179258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_12
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1068
+        width: 379
+        height: 516
+      alignment: 9
+      pivot: {x: .480386943, y: .706182897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1068
+        width: 364
+        height: 516
+      alignment: 9
+      pivot: {x: .460433781, y: .709784448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_14
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1068
+        width: 347
+        height: 516
+      alignment: 9
+      pivot: {x: .437073648, y: .714286149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_15
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1068
+        width: 335
+        height: 516
+      alignment: 9
+      pivot: {x: .42233777, y: .716086924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_16
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 1068
+        width: 322
+        height: 516
+      alignment: 9
+      pivot: {x: .399003118, y: .7178877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_17
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 1068
+        width: 305
+        height: 516
+      alignment: 9
+      pivot: {x: .367480457, y: .712485611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_18
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 1068
+        width: 287
+        height: 516
+      alignment: 9
+      pivot: {x: .328410834, y: .710684836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_19
+      rect:
+        serializedVersion: 2
+        x: 3811
+        y: 1068
+        width: 282
+        height: 516
+      alignment: 9
+      pivot: {x: .315483361, y: .706182897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 520
+        width: 285
+        height: 516
+      alignment: 9
+      pivot: {x: .320685923, y: .702581465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 520
+        width: 285
+        height: 516
+      alignment: 9
+      pivot: {x: .319055617, y: .702581465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_22
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 520
+        width: 283
+        height: 516
+      alignment: 9
+      pivot: {x: .316135377, y: .70078069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_23
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 520
+        width: 277
+        height: 516
+      alignment: 9
+      pivot: {x: .300412387, y: .697179139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_24
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 520
+        width: 286
+        height: 516
+      alignment: 9
+      pivot: {x: .322937012, y: .69177705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_25
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 520
+        width: 303
+        height: 516
+      alignment: 9
+      pivot: {x: .362004131, y: .686374843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_26
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 520
+        width: 318
+        height: 516
+      alignment: 9
+      pivot: {x: .391888708, y: .689976275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_27
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 520
+        width: 331
+        height: 516
+      alignment: 9
+      pivot: {x: .412977517, y: .689976275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_28
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 520
+        width: 345
+        height: 516
+      alignment: 9
+      pivot: {x: .43536219, y: .688175619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_29
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 520
+        width: 361
+        height: 516
+      alignment: 9
+      pivot: {x: .457531035, y: .683673859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_30
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 520
+        width: 377
+        height: 516
+      alignment: 9
+      pivot: {x: .479050547, y: .683673859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_31
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 520
+        width: 388
+        height: 516
+      alignment: 9
+      pivot: {x: .496407747, y: .683673859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_idle_walk_4100x2200_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7
+        width: 394
+        height: 500
+      alignment: 9
+      pivot: {x: .504716456, y: .7053473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: TheMan
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

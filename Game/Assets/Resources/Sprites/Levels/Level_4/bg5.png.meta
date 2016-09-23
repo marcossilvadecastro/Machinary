@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: feb31ca0064b54d94ae98de5c1f73cb3
+timeCreated: 1440083979
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bg5_0
+    21300002: bg5_1
+    21300004: bg5_2
+    21300006: bg5_3
+    21300008: bg5_4
+    21300010: bg5_5
+    21300012: bg5_6
+    21300014: bg5_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: bg5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1059
+        height: 1657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg5_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1639
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg5_2
+      rect:
+        serializedVersion: 2
+        x: 6621
+        y: 0
+        width: 1059
+        height: 1642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg5_3
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 1624
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg5_4
+      rect:
+        serializedVersion: 2
+        x: 7365
+        y: 1616
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg5_5
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 0
+        width: 829
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg5_6
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 0
+        width: 2062
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg5_7
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 0
+        width: 450
+        height: 1479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: BG
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

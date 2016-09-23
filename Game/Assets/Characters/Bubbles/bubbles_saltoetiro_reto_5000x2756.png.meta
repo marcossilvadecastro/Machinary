@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 784ec19dde2e34a499106ea03bf84b3d
+timeCreated: 1448974559
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubbles_saltoetiro_reto_5000x2756_0
+    21300002: bubbles_saltoetiro_reto_5000x2756_1
+    21300004: bubbles_saltoetiro_reto_5000x2756_2
+    21300006: bubbles_saltoetiro_reto_5000x2756_3
+    21300008: bubbles_saltoetiro_reto_5000x2756_4
+    21300010: bubbles_saltoetiro_reto_5000x2756_5
+    21300012: bubbles_saltoetiro_reto_5000x2756_6
+    21300014: bubbles_saltoetiro_reto_5000x2756_7
+    21300016: bubbles_saltoetiro_reto_5000x2756_8
+    21300018: bubbles_saltoetiro_reto_5000x2756_9
+    21300020: bubbles_saltoetiro_reto_5000x2756_10
+    21300022: bubbles_saltoetiro_reto_5000x2756_11
+    21300024: bubbles_saltoetiro_reto_5000x2756_12
+    21300026: bubbles_saltoetiro_reto_5000x2756_13
+    21300028: bubbles_saltoetiro_reto_5000x2756_14
+    21300030: bubbles_saltoetiro_reto_5000x2756_15
+    21300032: bubbles_saltoetiro_reto_5000x2756_16
+    21300034: bubbles_saltoetiro_reto_5000x2756_17
+    21300036: bubbles_saltoetiro_reto_5000x2756_18
+    21300038: bubbles_saltoetiro_reto_5000x2756_19
+    21300040: bubbles_saltoetiro_reto_5000x2756_20
+    21300042: bubbles_saltoetiro_reto_5000x2756_21
+    21300044: bubbles_saltoetiro_reto_5000x2756_22
+    21300046: bubbles_saltoetiro_reto_5000x2756_23
+    21300048: bubbles_saltoetiro_reto_5000x2756_24
+    21300050: bubbles_saltoetiro_reto_5000x2756_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: bubbles_saltoetiro_reto_5000x2756_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2333
+        width: 756
+        height: 280
+      alignment: 9
+      pivot: {x: .472770005, y: .0227329805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2246
+        width: 594
+        height: 455
+      alignment: 9
+      pivot: {x: .48014468, y: .182293639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_2
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2206
+        width: 469
+        height: 537
+      alignment: 9
+      pivot: {x: .488752604, y: .24179469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_3
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 2330
+        width: 745
+        height: 286
+      alignment: 9
+      pivot: {x: .489558637, y: .0257867128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_4
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 2249
+        width: 529
+        height: 447
+      alignment: 9
+      pivot: {x: .478403926, y: .0294416118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_5
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 2228
+        width: 525
+        height: 493
+      alignment: 9
+      pivot: {x: .503717005, y: .0241793301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_6
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 2274
+        width: 718
+        height: 398
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1712
+        width: 617
+        height: 379
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_8
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1661
+        width: 466
+        height: 481
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_9
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1727
+        width: 648
+        height: 349
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_10
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1703
+        width: 685
+        height: 398
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_11
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1656
+        width: 525
+        height: 491
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_12
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 1678
+        width: 537
+        height: 447
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1232
+        width: 781
+        height: 280
+      alignment: 9
+      pivot: {x: .460098743, y: .0210035052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_14
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1258
+        width: 791
+        height: 227
+      alignment: 9
+      pivot: {x: .458109498, y: .0255960468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_15
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1263
+        width: 786
+        height: 220
+      alignment: 9
+      pivot: {x: .451820731, y: .0230524242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_16
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1229
+        width: 788
+        height: 286
+      alignment: 9
+      pivot: {x: .48246029, y: .0272417404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_17
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1149
+        width: 791
+        height: 446
+      alignment: 9
+      pivot: {x: .546255529, y: .0276779383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 614
+        width: 794
+        height: 491
+      alignment: 9
+      pivot: {x: .570423424, y: .0247324146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_19
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 660
+        width: 794
+        height: 398
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_20
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 732
+        width: 792
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_21
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 756
+        width: 790
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_22
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 732
+        width: 791
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 140
+        width: 791
+        height: 398
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_24
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 85
+        width: 805
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltoetiro_reto_5000x2756_25
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 99
+        width: 812
+        height: 486
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Bubbles
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

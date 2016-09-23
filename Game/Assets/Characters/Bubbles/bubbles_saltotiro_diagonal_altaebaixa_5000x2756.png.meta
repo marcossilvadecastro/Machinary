@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 41e83098b8f499a47aeeecf01dd6a8bc
+timeCreated: 1448975765
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_0
+    21300002: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_1
+    21300004: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_2
+    21300006: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_3
+    21300008: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_4
+    21300010: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_5
+    21300012: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_6
+    21300014: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_7
+    21300016: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_8
+    21300018: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_9
+    21300020: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_10
+    21300022: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_11
+    21300024: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_12
+    21300026: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_13
+    21300028: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_14
+    21300030: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_15
+    21300032: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_16
+    21300034: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_17
+    21300036: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_18
+    21300038: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_19
+    21300040: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_20
+    21300042: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_21
+    21300044: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_22
+    21300046: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_23
+    21300048: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_24
+    21300050: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2345
+        width: 770
+        height: 278
+      alignment: 9
+      pivot: {x: .432692677, y: .0188655723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_1
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2230
+        width: 605
+        height: 508
+      alignment: 9
+      pivot: {x: .312817991, y: .326930732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_2
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2221
+        width: 588
+        height: 525
+      alignment: 9
+      pivot: {x: .252260804, y: .373931825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_3
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 2252
+        width: 637
+        height: 464
+      alignment: 9
+      pivot: {x: .297861516, y: .252256185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_4
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 2259
+        width: 710
+        height: 447
+      alignment: 9
+      pivot: {x: .373534471, y: .0284328256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_5
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 2237
+        width: 721
+        height: 493
+      alignment: 9
+      pivot: {x: .409443796, y: .0257798638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1693
+        width: 694
+        height: 398
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_7
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1661
+        width: 635
+        height: 461
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_8
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1639
+        width: 598
+        height: 505
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_9
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1649
+        width: 622
+        height: 486
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_10
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 1678
+        width: 662
+        height: 427
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_11
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1646
+        width: 673
+        height: 491
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_12
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 1659
+        width: 655
+        height: 464
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1117
+        width: 777
+        height: 280
+      alignment: 9
+      pivot: {x: .478905171, y: .0243783128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_14
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1036
+        width: 666
+        height: 442
+      alignment: 9
+      pivot: {x: .502009928, y: .150692761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_15
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 978
+        width: 571
+        height: 559
+      alignment: 9
+      pivot: {x: .509698689, y: .228820473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_16
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 973
+        width: 555
+        height: 569
+      alignment: 9
+      pivot: {x: .519574821, y: .169856012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_17
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1012
+        width: 638
+        height: 490
+      alignment: 9
+      pivot: {x: .525040507, y: .02359806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_18
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 964
+        width: 515
+        height: 585
+      alignment: 9
+      pivot: {x: .547281742, y: .0547078438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_19
+      rect:
+        serializedVersion: 2
+        x: 4532
+        y: 917
+        width: 249
+        height: 678
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 243
+        width: 439
+        height: 627
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 292
+        width: 598
+        height: 532
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_22
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 268
+        width: 546
+        height: 578
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_23
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 233
+        width: 466
+        height: 647
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_24
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 256
+        width: 547
+        height: 600
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubbles_saltotiro_diagonal_altaebaixa_5000x2756_25
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 287
+        width: 630
+        height: 539
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Bubbles
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

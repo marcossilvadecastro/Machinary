@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 2d0846b5b6ed15547adc1a5a32a64fdd
+timeCreated: 1448896534
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hoodie_slide_salto_5000x5000_0
+    21300002: hoodie_slide_salto_5000x5000_1
+    21300004: hoodie_slide_salto_5000x5000_2
+    21300006: hoodie_slide_salto_5000x5000_3
+    21300008: hoodie_slide_salto_5000x5000_4
+    21300010: hoodie_slide_salto_5000x5000_5
+    21300012: hoodie_slide_salto_5000x5000_6
+    21300014: hoodie_slide_salto_5000x5000_7
+    21300016: hoodie_slide_salto_5000x5000_8
+    21300018: hoodie_slide_salto_5000x5000_9
+    21300020: hoodie_slide_salto_5000x5000_10
+    21300022: hoodie_slide_salto_5000x5000_11
+    21300024: hoodie_slide_salto_5000x5000_12
+    21300026: hoodie_slide_salto_5000x5000_13
+    21300028: hoodie_slide_salto_5000x5000_14
+    21300030: hoodie_slide_salto_5000x5000_15
+    21300032: hoodie_slide_salto_5000x5000_16
+    21300034: hoodie_slide_salto_5000x5000_17
+    21300036: hoodie_slide_salto_5000x5000_18
+    21300038: hoodie_slide_salto_5000x5000_19
+    21300040: hoodie_slide_salto_5000x5000_20
+    21300042: hoodie_slide_salto_5000x5000_21
+    21300044: hoodie_slide_salto_5000x5000_22
+    21300046: hoodie_slide_salto_5000x5000_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: hoodie_slide_salto_5000x5000_0
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3986
+        width: 650
+        height: 976
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_1
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 3983
+        width: 666
+        height: 988
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_2
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3983
+        width: 890
+        height: 774
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_3
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 3983
+        width: 986
+        height: 654
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_4
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 3983
+        width: 997
+        height: 654
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3242
+        width: 996
+        height: 646
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_6
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 3242
+        width: 999
+        height: 636
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_7
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3242
+        width: 999
+        height: 631
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_8
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 3242
+        width: 999
+        height: 639
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2529
+        width: 999
+        height: 648
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_10
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2184
+        width: 639
+        height: 945
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_11
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 2184
+        width: 633
+        height: 942
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_12
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 2184
+        width: 634
+        height: 932
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_13
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 2184
+        width: 634
+        height: 923
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_14
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 2184
+        width: 643
+        height: 915
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1178
+        width: 646
+        height: 912
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1178
+        width: 637
+        height: 913
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_17
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1178
+        width: 638
+        height: 918
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_18
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1178
+        width: 639
+        height: 928
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_19
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 1178
+        width: 638
+        height: 940
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_20
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 1178
+        width: 639
+        height: 955
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_21
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 1178
+        width: 640
+        height: 969
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 101
+        width: 638
+        height: 984
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_slide_salto_5000x5000_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 101
+        width: 637
+        height: 993
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Hoodie
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

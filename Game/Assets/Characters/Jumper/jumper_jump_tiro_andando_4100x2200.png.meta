@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: f64f4a63b55c9a346abb445eb644c0f4
+timeCreated: 1448910458
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jumper_jump_tiro_andando_4100x2200_0
+    21300002: jumper_jump_tiro_andando_4100x2200_1
+    21300004: jumper_jump_tiro_andando_4100x2200_2
+    21300006: jumper_jump_tiro_andando_4100x2200_3
+    21300008: jumper_jump_tiro_andando_4100x2200_4
+    21300010: jumper_jump_tiro_andando_4100x2200_5
+    21300012: jumper_jump_tiro_andando_4100x2200_6
+    21300014: jumper_jump_tiro_andando_4100x2200_7
+    21300016: jumper_jump_tiro_andando_4100x2200_8
+    21300018: jumper_jump_tiro_andando_4100x2200_9
+    21300020: jumper_jump_tiro_andando_4100x2200_10
+    21300022: jumper_jump_tiro_andando_4100x2200_11
+    21300024: jumper_jump_tiro_andando_4100x2200_12
+    21300026: jumper_jump_tiro_andando_4100x2200_13
+    21300028: jumper_jump_tiro_andando_4100x2200_14
+    21300030: jumper_jump_tiro_andando_4100x2200_15
+    21300032: jumper_jump_tiro_andando_4100x2200_16
+    21300034: jumper_jump_tiro_andando_4100x2200_17
+    21300036: jumper_jump_tiro_andando_4100x2200_18
+    21300038: jumper_jump_tiro_andando_4100x2200_19
+    21300040: jumper_jump_tiro_andando_4100x2200_20
+    21300042: jumper_jump_tiro_andando_4100x2200_21
+    21300044: jumper_jump_tiro_andando_4100x2200_22
+    21300046: jumper_jump_tiro_andando_4100x2200_23
+    21300048: jumper_jump_tiro_andando_4100x2200_24
+    21300050: jumper_jump_tiro_andando_4100x2200_25
+    21300052: jumper_jump_tiro_andando_4100x2200_26
+    21300054: jumper_jump_tiro_andando_4100x2200_27
+    21300056: jumper_jump_tiro_andando_4100x2200_28
+    21300058: jumper_jump_tiro_andando_4100x2200_29
+    21300060: jumper_jump_tiro_andando_4100x2200_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: jumper_jump_tiro_andando_4100x2200_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1753
+        width: 496
+        height: 435
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1763
+        width: 496
+        height: 426
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_2
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1779
+        width: 486
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_3
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1787
+        width: 476
+        height: 402
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_4
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1771
+        width: 478
+        height: 418
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_5
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 1733
+        width: 490
+        height: 456
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_6
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 1703
+        width: 488
+        height: 486
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_7
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 1699
+        width: 482
+        height: 490
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1128
+        width: 390
+        height: 492
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_9
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1129
+        width: 389
+        height: 491
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_10
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1128
+        width: 388
+        height: 492
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_11
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1134
+        width: 435
+        height: 595
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_12
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1134
+        width: 432
+        height: 575
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_13
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 1134
+        width: 429
+        height: 555
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_14
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1128
+        width: 392
+        height: 498
+      alignment: 9
+      pivot: {x: .138699278, y: .0241966397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_15
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1136
+        width: 396
+        height: 490
+      alignment: 9
+      pivot: {x: .140548557, y: .00492840214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_16
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 1136
+        width: 404
+        height: 490
+      alignment: 9
+      pivot: {x: .141688585, y: .00434844336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 459
+        width: 390
+        height: 621
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 459
+        width: 388
+        height: 611
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_19
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 457
+        width: 392
+        height: 601
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_20
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 461
+        width: 389
+        height: 497
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_21
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 461
+        width: 396
+        height: 497
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_22
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 459
+        width: 409
+        height: 497
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 498
+        height: 384
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_24
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 11
+        width: 472
+        height: 384
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_25
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 11
+        width: 464
+        height: 384
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_26
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 11
+        width: 482
+        height: 384
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_27
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 11
+        width: 500
+        height: 384
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_28
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 13
+        width: 482
+        height: 382
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_29
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 11
+        width: 464
+        height: 384
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumper_jump_tiro_andando_4100x2200_30
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 11
+        width: 476
+        height: 384
+      alignment: 9
+      pivot: {x: .999854326, y: .0120858876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Jumper
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

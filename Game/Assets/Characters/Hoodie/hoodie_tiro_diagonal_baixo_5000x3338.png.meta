@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 354bf75f87bcbb94e9831a6ab86f03d7
+timeCreated: 1448903229
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hoodie_tiro_diagonal_baixo_5000x3338_0
+    21300002: hoodie_tiro_diagonal_baixo_5000x3338_1
+    21300004: hoodie_tiro_diagonal_baixo_5000x3338_2
+    21300006: hoodie_tiro_diagonal_baixo_5000x3338_3
+    21300008: hoodie_tiro_diagonal_baixo_5000x3338_4
+    21300010: hoodie_tiro_diagonal_baixo_5000x3338_5
+    21300012: hoodie_tiro_diagonal_baixo_5000x3338_6
+    21300014: hoodie_tiro_diagonal_baixo_5000x3338_7
+    21300016: hoodie_tiro_diagonal_baixo_5000x3338_8
+    21300018: hoodie_tiro_diagonal_baixo_5000x3338_9
+    21300020: hoodie_tiro_diagonal_baixo_5000x3338_10
+    21300022: hoodie_tiro_diagonal_baixo_5000x3338_11
+    21300024: hoodie_tiro_diagonal_baixo_5000x3338_12
+    21300026: hoodie_tiro_diagonal_baixo_5000x3338_13
+    21300028: hoodie_tiro_diagonal_baixo_5000x3338_14
+    21300030: hoodie_tiro_diagonal_baixo_5000x3338_15
+    21300032: hoodie_tiro_diagonal_baixo_5000x3338_16
+    21300034: hoodie_tiro_diagonal_baixo_5000x3338_17
+    21300036: hoodie_tiro_diagonal_baixo_5000x3338_18
+    21300038: hoodie_tiro_diagonal_baixo_5000x3338_19
+    21300040: hoodie_tiro_diagonal_baixo_5000x3338_20
+    21300042: hoodie_tiro_diagonal_baixo_5000x3338_21
+    21300044: hoodie_tiro_diagonal_baixo_5000x3338_22
+    21300046: hoodie_tiro_diagonal_baixo_5000x3338_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2389
+        width: 613
+        height: 920
+      alignment: 9
+      pivot: {x: .371049345, y: .00372022553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_1
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2389
+        width: 740
+        height: 760
+      alignment: 9
+      pivot: {x: .403487653, y: .00485871965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_2
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 2394
+        width: 730
+        height: 616
+      alignment: 9
+      pivot: {x: .440050095, y: .00538773974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_3
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 2399
+        width: 650
+        height: 611
+      alignment: 9
+      pivot: {x: .504868567, y: .00617024489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_4
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 2402
+        width: 629
+        height: 617
+      alignment: 9
+      pivot: {x: .529078722, y: .0050513763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_5
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 2402
+        width: 620
+        height: 627
+      alignment: 9
+      pivot: {x: .538267851, y: .00452302629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1640
+        width: 590
+        height: 642
+      alignment: 9
+      pivot: {x: .565443218, y: .00603259308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1640
+        width: 552
+        height: 652
+      alignment: 9
+      pivot: {x: .60193336, y: .00646410976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_8
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1640
+        width: 535
+        height: 661
+      alignment: 9
+      pivot: {x: .649622142, y: .0060523604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_9
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1640
+        width: 534
+        height: 666
+      alignment: 9
+      pivot: {x: .680718005, y: .00579943974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_10
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 1640
+        width: 558
+        height: 664
+      alignment: 9
+      pivot: {x: .670774162, y: .00567921111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_11
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 1640
+        width: 611
+        height: 658
+      alignment: 9
+      pivot: {x: .63449192, y: .00570038659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_12
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 1640
+        width: 662
+        height: 644
+      alignment: 9
+      pivot: {x: .600334406, y: .00642594043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 875
+        width: 682
+        height: 638
+      alignment: 9
+      pivot: {x: .588677704, y: .00493322872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 681
+        height: 635
+      alignment: 9
+      pivot: {x: .586869776, y: .00444191741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_15
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 875
+        width: 679
+        height: 660
+      alignment: 9
+      pivot: {x: .573231578, y: .00461462792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_16
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 875
+        width: 674
+        height: 679
+      alignment: 9
+      pivot: {x: .535128713, y: .00429736031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_17
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 875
+        width: 683
+        height: 677
+      alignment: 9
+      pivot: {x: .490815222, y: .00481699919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_18
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 875
+        width: 711
+        height: 667
+      alignment: 9
+      pivot: {x: .469151765, y: .00500717061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 123
+        width: 725
+        height: 664
+      alignment: 9
+      pivot: {x: .460359395, y: .00732858479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_20
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 123
+        width: 743
+        height: 618
+      alignment: 9
+      pivot: {x: .44931832, y: .00766740553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_21
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 123
+        width: 757
+        height: 601
+      alignment: 9
+      pivot: {x: .440375507, y: .00830456428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_22
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 123
+        width: 723
+        height: 603
+      alignment: 9
+      pivot: {x: .461251199, y: .0080797188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_tiro_diagonal_baixo_5000x3338_23
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 123
+        width: 659
+        height: 613
+      alignment: 9
+      pivot: {x: .507280529, y: .00826491229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Hoodie
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

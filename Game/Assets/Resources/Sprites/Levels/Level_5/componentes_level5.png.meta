@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: c4b841a0720e94cadac8c47bd594e9a0
+timeCreated: 1448652679
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: componentes_level5_0
+    21300002: componentes_level5_1
+    21300004: componentes_level5_2
+    21300006: componentes_level5_3
+    21300008: componentes_level5_4
+    21300010: componentes_level5_5
+    21300012: componentes_level5_6
+    21300014: componentes_level5_7
+    21300016: componentes_level5_8
+    21300018: componentes_level5_9
+    21300020: componentes_level5_10
+    21300022: componentes_level5_11
+    21300024: componentes_level5_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: componentes_level5_0
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2415
+        width: 2549
+        height: 2549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_1
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 2428
+        width: 2507
+        height: 2506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_2
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 3131
+        width: 1803
+        height: 1811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 734
+        width: 3424
+        height: 1596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_4
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 1828
+        width: 1028
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_5
+      rect:
+        serializedVersion: 2
+        x: 5843
+        y: 1292
+        width: 1756
+        height: 1776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_6
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 1330
+        width: 1817
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_7
+      rect:
+        serializedVersion: 2
+        x: 3826
+        y: 855
+        width: 1817
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_8
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 485
+        width: 6174
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_9
+      rect:
+        serializedVersion: 2
+        x: 7482
+        y: 377
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 333
+        width: 214
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 91
+        width: 672
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: componentes_level5_12
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 88
+        width: 6210
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

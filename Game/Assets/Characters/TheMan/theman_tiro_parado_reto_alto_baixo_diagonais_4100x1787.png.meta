@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: b87f2c7a24c034c7491f0116721976fe
+timeCreated: 1448941131
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_0
+    21300002: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_1
+    21300004: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_2
+    21300006: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_3
+    21300008: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_4
+    21300010: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_5
+    21300012: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_6
+    21300014: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_7
+    21300016: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_8
+    21300018: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_9
+    21300020: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_10
+    21300022: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_11
+    21300024: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_12
+    21300026: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_13
+    21300028: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_14
+    21300030: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_15
+    21300032: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_16
+    21300034: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_17
+    21300036: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_18
+    21300038: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1376
+        width: 568
+        height: 392
+      alignment: 9
+      pivot: {x: .902357817, y: .0100539848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_1
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1376
+        width: 562
+        height: 392
+      alignment: 9
+      pivot: {x: .933381975, y: .00457981648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_2
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1376
+        width: 548
+        height: 386
+      alignment: 9
+      pivot: {x: .926832199, y: .00521803135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_3
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1376
+        width: 536
+        height: 382
+      alignment: 9
+      pivot: {x: .920373738, y: .00565453991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_4
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 1378
+        width: 395
+        height: 382
+      alignment: 9
+      pivot: {x: .80348289, y: .00950582605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_5
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 1378
+        width: 320
+        height: 368
+      alignment: 9
+      pivot: {x: .849427819, y: .00726981787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_6
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 1378
+        width: 315
+        height: 378
+      alignment: 9
+      pivot: {x: .848577797, y: .00698029064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_7
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 1378
+        width: 308
+        height: 388
+      alignment: 9
+      pivot: {x: .849958956, y: .00670568738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 663
+        width: 404
+        height: 618
+      alignment: 9
+      pivot: {x: .815886855, y: .00341164786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 661
+        width: 397
+        height: 683
+      alignment: 9
+      pivot: {x: .832937419, y: .00173427421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_10
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 661
+        width: 396
+        height: 633
+      alignment: 9
+      pivot: {x: .841451347, y: .00317855272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_11
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 661
+        width: 395
+        height: 591
+      alignment: 9
+      pivot: {x: .842315733, y: .00386080937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_12
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 661
+        width: 476
+        height: 511
+      alignment: 9
+      pivot: {x: .854282439, y: .00646172371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_13
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 661
+        width: 529
+        height: 470
+      alignment: 9
+      pivot: {x: .890586257, y: .00543057034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_14
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 661
+        width: 524
+        height: 450
+      alignment: 9
+      pivot: {x: .876917243, y: .00370659726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_15
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 661
+        width: 510
+        height: 441
+      alignment: 9
+      pivot: {x: .869390488, y: .00391330849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 101
+        width: 507
+        height: 368
+      alignment: 9
+      pivot: {x: .886512101, y: .0170310065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_17
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 103
+        width: 524
+        height: 368
+      alignment: 9
+      pivot: {x: .913109243, y: .0139350062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_18
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 103
+        width: 489
+        height: 376
+      alignment: 9
+      pivot: {x: .945007205, y: .0151864924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_parado_reto_alto_baixo_diagonais_4100x1787_19
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 103
+        width: 457
+        height: 374
+      alignment: 9
+      pivot: {x: .974976897, y: .0171994101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: TheMan
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

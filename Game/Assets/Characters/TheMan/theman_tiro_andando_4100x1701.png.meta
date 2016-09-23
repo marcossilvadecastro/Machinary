@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 25339a1490f6edd42b46cc99ab4e4618
+timeCreated: 1448983267
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theman_tiro_andando_4100x1701_0
+    21300002: theman_tiro_andando_4100x1701_1
+    21300004: theman_tiro_andando_4100x1701_2
+    21300006: theman_tiro_andando_4100x1701_3
+    21300008: theman_tiro_andando_4100x1701_4
+    21300010: theman_tiro_andando_4100x1701_5
+    21300012: theman_tiro_andando_4100x1701_6
+    21300014: theman_tiro_andando_4100x1701_7
+    21300016: theman_tiro_andando_4100x1701_8
+    21300018: theman_tiro_andando_4100x1701_9
+    21300020: theman_tiro_andando_4100x1701_10
+    21300022: theman_tiro_andando_4100x1701_11
+    21300024: theman_tiro_andando_4100x1701_12
+    21300026: theman_tiro_andando_4100x1701_13
+    21300028: theman_tiro_andando_4100x1701_14
+    21300030: theman_tiro_andando_4100x1701_15
+    21300032: theman_tiro_andando_4100x1701_16
+    21300034: theman_tiro_andando_4100x1701_17
+    21300036: theman_tiro_andando_4100x1701_18
+    21300038: theman_tiro_andando_4100x1701_19
+    21300040: theman_tiro_andando_4100x1701_20
+    21300042: theman_tiro_andando_4100x1701_21
+    21300044: theman_tiro_andando_4100x1701_22
+    21300046: theman_tiro_andando_4100x1701_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: theman_tiro_andando_4100x1701_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1304
+        width: 496
+        height: 384
+      alignment: 9
+      pivot: {x: .98062861, y: .439189583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_1
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1300
+        width: 530
+        height: 388
+      alignment: 9
+      pivot: {x: .98333323, y: .441612959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_2
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1298
+        width: 495
+        height: 390
+      alignment: 9
+      pivot: {x: .983007789, y: .441912383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_3
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1296
+        width: 462
+        height: 392
+      alignment: 9
+      pivot: {x: .979789197, y: .442208737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_4
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1294
+        width: 495
+        height: 394
+      alignment: 9
+      pivot: {x: .983007789, y: .444271177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_5
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 1292
+        width: 530
+        height: 396
+      alignment: 9
+      pivot: {x: .982675672, y: .445433021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_6
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 1292
+        width: 497
+        height: 396
+      alignment: 9
+      pivot: {x: .981064618, y: .443672568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 858
+        width: 461
+        height: 394
+      alignment: 9
+      pivot: {x: .980575442, y: .439046323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 860
+        width: 496
+        height: 392
+      alignment: 9
+      pivot: {x: .980215013, y: .433587819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_9
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 860
+        width: 531
+        height: 392
+      alignment: 9
+      pivot: {x: .981491089, y: .432596624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_10
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 862
+        width: 496
+        height: 390
+      alignment: 9
+      pivot: {x: .98334825, y: .427269578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_11
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 862
+        width: 461
+        height: 390
+      alignment: 9
+      pivot: {x: .977902353, y: .42826584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_12
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 862
+        width: 494
+        height: 390
+      alignment: 9
+      pivot: {x: .984518826, y: .42826584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_13
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 866
+        width: 531
+        height: 386
+      alignment: 9
+      pivot: {x: .98149085, y: .423496068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 441
+        width: 497
+        height: 385
+      alignment: 9
+      pivot: {x: .979614019, y: .424444199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_15
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 445
+        width: 460
+        height: 382
+      alignment: 9
+      pivot: {x: .981303334, y: .42067793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_16
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 443
+        width: 495
+        height: 382
+      alignment: 9
+      pivot: {x: .982368112, y: .427023828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_17
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 443
+        width: 530
+        height: 382
+      alignment: 9
+      pivot: {x: .983292043, y: .429138988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_18
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 443
+        width: 497
+        height: 382
+      alignment: 9
+      pivot: {x: .980426967, y: .432311863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_19
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 445
+        width: 460
+        height: 380
+      alignment: 9
+      pivot: {x: .980425239, y: .429829329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_20
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 445
+        width: 495
+        height: 380
+      alignment: 9
+      pivot: {x: .9807356, y: .429829329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 529
+        height: 382
+      alignment: 9
+      pivot: {x: .981664419, y: .431984395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_22
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 13
+        width: 496
+        height: 382
+      alignment: 9
+      pivot: {x: .980799258, y: .437661856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theman_tiro_andando_4100x1701_23
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 13
+        width: 459
+        height: 384
+      alignment: 9
+      pivot: {x: .979706287, y: .437087893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: TheMan
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

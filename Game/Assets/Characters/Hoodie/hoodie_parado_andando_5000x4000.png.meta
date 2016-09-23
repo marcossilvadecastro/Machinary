@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: c2bd6e758a7be7e4989bf46ce00ef25c
+timeCreated: 1448895064
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hoodie_parado_andando_5000x4000_0
+    21300002: hoodie_parado_andando_5000x4000_1
+    21300004: hoodie_parado_andando_5000x4000_2
+    21300006: hoodie_parado_andando_5000x4000_3
+    21300008: hoodie_parado_andando_5000x4000_4
+    21300010: hoodie_parado_andando_5000x4000_5
+    21300012: hoodie_parado_andando_5000x4000_6
+    21300014: hoodie_parado_andando_5000x4000_7
+    21300016: hoodie_parado_andando_5000x4000_8
+    21300018: hoodie_parado_andando_5000x4000_9
+    21300020: hoodie_parado_andando_5000x4000_10
+    21300022: hoodie_parado_andando_5000x4000_11
+    21300024: hoodie_parado_andando_5000x4000_12
+    21300026: hoodie_parado_andando_5000x4000_13
+    21300028: hoodie_parado_andando_5000x4000_14
+    21300030: hoodie_parado_andando_5000x4000_15
+    21300032: hoodie_parado_andando_5000x4000_16
+    21300034: hoodie_parado_andando_5000x4000_17
+    21300036: hoodie_parado_andando_5000x4000_18
+    21300038: hoodie_parado_andando_5000x4000_19
+    21300040: hoodie_parado_andando_5000x4000_20
+    21300042: hoodie_parado_andando_5000x4000_21
+    21300044: hoodie_parado_andando_5000x4000_22
+    21300046: hoodie_parado_andando_5000x4000_23
+    21300048: hoodie_parado_andando_5000x4000_24
+    21300050: hoodie_parado_andando_5000x4000_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: hoodie_parado_andando_5000x4000_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3042
+        width: 640
+        height: 944
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_1
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3042
+        width: 639
+        height: 942
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_2
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3042
+        width: 632
+        height: 937
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_3
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 3042
+        width: 620
+        height: 930
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_4
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 3042
+        width: 610
+        height: 927
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_5
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 3042
+        width: 605
+        height: 925
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2031
+        width: 638
+        height: 942
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_7
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2038
+        width: 639
+        height: 938
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_8
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 2038
+        width: 639
+        height: 943
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_9
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2038
+        width: 639
+        height: 947
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_10
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 2038
+        width: 638
+        height: 950
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_11
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 2038
+        width: 640
+        height: 947
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_12
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 2038
+        width: 640
+        height: 943
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1029
+        width: 640
+        height: 940
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1024
+        width: 640
+        height: 941
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_15
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1020
+        width: 640
+        height: 945
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_16
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1020
+        width: 639
+        height: 945
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_17
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 1020
+        width: 639
+        height: 949
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_18
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 1020
+        width: 639
+        height: 954
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_19
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 1020
+        width: 638
+        height: 959
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 639
+        height: 960
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_21
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 13
+        width: 639
+        height: 958
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_22
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 13
+        width: 638
+        height: 955
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_23
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 13
+        width: 639
+        height: 950
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_24
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 13
+        width: 640
+        height: 945
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hoodie_parado_andando_5000x4000_25
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 13
+        width: 639
+        height: 945
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Hoodie
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
